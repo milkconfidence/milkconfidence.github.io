@@ -7,7 +7,7 @@
 
 = 免疫力を上げる方法について調べてみた
 
-image::https://pbs.twimg.com/media/ErscPlqVkAAcaRy.jpg[image, 300]
+image::https://pbs.twimg.com/media/ErscPlqVkAAcaRy?format=jpg&name=small[image, 300]
 https://twitter.com/milkconfidence[[aqua]#icon:twitter[]#]
 
 == 調べた理由
